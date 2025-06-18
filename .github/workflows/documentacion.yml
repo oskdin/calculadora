@@ -11,7 +11,7 @@ jobs:
     - name: Saludar
       uses: oskdin/Hello-world-javascript-action@genesis
       with:
-        who-to-greet: 'Oskdin'
+        who-to-greet: Oskdin
     
     - name: Tener copia local del repo
       uses: actions/checkout@v4.2.2
